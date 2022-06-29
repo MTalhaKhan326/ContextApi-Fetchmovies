@@ -1,0 +1,15 @@
+.search{
+    text-align: center;
+}
+h2{
+    color: rgb(74, 165, 207);
+}
+.input{
+    width: 200px;
+    height: 34px;
+    border-radius: 10px;
+    background-color: rgb(244, 250, 250);
+}
+.input :hover{
+    background-color: azure;
+}
